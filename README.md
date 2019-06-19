@@ -21,6 +21,7 @@
 | [CAD](https://github.com/smirmik/CAD) | Python | Contextual Anomaly Detection for real-time AD on streagming data (winner algorithm of the 2016 NAB competition). | AGPL
 | [DeepADoTS](https://github.com/KDD-OpenSource/DeepADoTS) | Python | Implementation and evaluation of 7 deep learning-based techniques for Anomaly Detection on Time-Series data. | MIT
 | [rrcf](https://github.com/kLabUM/rrcf) | Python | Implementation of the Robust Random Cut Forest algorithm for anomaly detection on streams. | MIT
+| [Morgoth](https://github.com/nathanielc/morgoth) | Go | Framework for flexible anomaly detection algorithms packaged to be used with Kapacitor. | Apache-2.0
 
 ## Related Software
 
